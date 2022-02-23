@@ -1,4 +1,4 @@
-TODOs
+TODOs [ENG]
 ========
 
 This program allows you to create and manage a to-do list.
@@ -17,7 +17,7 @@ Installation
     2. Execute commands
        - mkdir todos
        - cd todos
-    3. Вownload the project to a folder todos
+    3. Download the project to a folder todos
 
 Contribute
 ----------
@@ -29,3 +29,35 @@ Support
 ----------
 If you are having issues, please let us know.
 For faster communication use todos.sup@gmail.com
+____________________________________________
+TODOs [RUS]
+========
+
+Данная программа позволяет создавать и управлять списком дел.
+
+Функции и Методы
+--------
+- Constructor(): Данный метод необходим для создания пустого массива
+- List(): Возвращает копию массива, используемого классом. Она делает копию массива, используя деструктурирующий синтаксис JavaScript. 
+- Add(): Метод берет строку и помещает ее в свойство “title” нового объекта JavaScript. Новый объект также имеет свойство “completed”, которое по умолчанию устанавливается на “false”.
+- Complete(): Метод берет свойство объекта “completed” и меняет его на true.
+
+Установка/Подготовка
+------------
+
+    1. Установите node.js (https://nodejs.org/ru/download/)
+    2. Выполните команды
+       - mkdir todos
+       - cd todos
+    3. Скачайте проект в папку todos
+
+Внести вклад
+----------
+
+- Отслеживание проблем: https://github.com/Chichiput/TODOs/issues
+- Ссылка на код: https://github.com/Chichiput/TODOs/blob/main/index.js
+
+Поддержка
+----------
+Если у вас возникли проблемы, пожалуйста, сообщите нам об этом.
+Для более быстрой связи пишите на todos.sup@gmail.com
