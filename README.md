@@ -24,3 +24,8 @@ Contribute
 
 - Issue Tracker: https://github.com/Chichiput/TODOs/issues
 - Source Code: https://github.com/Chichiput/TODOs/blob/main/index.js
+
+Support
+----------
+If you are having issues, please let us know.
+For faster communication use todos.sup@gmail.com
